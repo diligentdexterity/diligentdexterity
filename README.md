@@ -23,7 +23,8 @@
   - ![Sadcn UI](https://img.shields.io/badge/-Sadcn%20UI-000000?logo=storybook&logoColor=white)
   - ![Acernity UI](https://img.shields.io/badge/-Acernity%20UI-000000?logo=storybook&logoColor=white)
 - **Backend**:
-  - ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white) (MySQL/PostgreSQL)
+  - ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
+  - ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
   - ![NextAuth v5](https://img.shields.io/badge/-NextAuth%20v5-000000?logo=next.js&logoColor=white)
   - ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) (API)
 - **Media Upload**:
