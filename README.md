@@ -1,6 +1,6 @@
 # Darshan Dhakal | Diligent Dexterity
 
-![GitHub Banner](https://images2.imgbox.com/d2/28/dzZJIizZ_o.png)
+![GitHub Banner](banner.png)
 
 👋 Hi there! I'm **Darshan Dhakal**, the mind behind **Diligent Dexterity**. Since 2020, I've been diving deep into the world of coding, focusing on web development and native application development. With a strong foundation in JavaScript, TypeScript, React JS, Next JS, React Native with Expo, and some Python, I've built numerous websites and applications that not only meet but exceed client expectations.
 
